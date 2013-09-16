@@ -51,7 +51,7 @@
                     Have a problem with your pet?<br>
                     Call us now: 
                     <span class="phone">
-                        1-800-123-1234
+                        1-800-123-12345
                     </span>
                 </div>
             </div>
